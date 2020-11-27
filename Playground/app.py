@@ -1,3 +1,4 @@
+# ------(Exceptions)-----------------
 # try:
 #     age= int(input("Age: "))
 #     income = 20000
@@ -7,7 +8,8 @@
 #     print("Invalid Value")
 # except ZeroDivisionError:
 #     print("Age cannot be zero")
-#
+
+# --------(Classes)------------------
 # class Point:
 #     def move(self):
 #         print("move")
@@ -22,7 +24,8 @@
 # print(f"({point1.x}, {point1.y})")
 # point1.draw()
 # point1.move()
-#
+
+# ---------(Classes)-----------------------
 # class Point:
 #     def __init__(self, x, y):
 #         self.x = x
@@ -37,7 +40,7 @@
 # point = Point(122, 12)
 # print(point.x)
 # print(point.y)
-#
+# --------(Classes Practice)-----------------
 # class Person:
 #     def __init__(self, name):
 #         self.name = name
@@ -48,3 +51,4 @@
 #
 # person = Person("Karl")
 # person.talk()
+# -----------------------------------------`
