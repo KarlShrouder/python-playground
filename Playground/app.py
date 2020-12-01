@@ -40,6 +40,7 @@
 # point = Point(122, 12)
 # print(point.x)
 # print(point.y)
+
 # --------(Classes Practice)-----------------
 # class Person:
 #     def __init__(self, name):
@@ -51,4 +52,36 @@
 #
 # person = Person("Karl")
 # person.talk()
-# -----------------------------------------`
+
+# --------(Inheritance)----------------------
+# class Mammal:
+#     def __init__(self, name):
+#         self.name = name
+#
+#     def walk(self):
+#         print(f"*{self.name} is walking*")
+#
+#
+# class Dog(Mammal):
+#     def bark(self):
+#         print(f"{self.name}: woof!")
+#
+#
+# class Cat(Mammal):
+#     def meow(self):
+#         print(f"{self.name}: meow!")
+#
+#
+# dogo = Dog("Rokki")
+# dogo.walk()
+# dogo.bark()
+#
+# kitty = Cat("Diamond")
+# kitty.walk()
+# kitty.meow()
+
+# ------------(Modules)--------------------
+
+
+
+
