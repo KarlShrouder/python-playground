@@ -175,8 +175,19 @@
 # process_workbook('transactions.xlsx')
 
 # -----------------(Machine Learning)-------------------------------
-
-
+# 1. Import Data
+# 2. Clean Data
+# 3. Split the Data into Training/Test Sets (80/20)
+# 4. Create a Model (or find one)
+# 5. Train the Model
+# 6. Make Predictions
+# 7. Evaluate and Improve
+#
+# Libraries
+#   * Numpy
+#   * Pandas
+#   * MatPlotLib
+#   * Scikit-Learn
 
 
 
